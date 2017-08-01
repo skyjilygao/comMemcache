@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/comCommons/comCommons.iml" filepath="$PROJECT_DIR$/comCommons/comCommons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comDao/comDao.iml" filepath="$PROJECT_DIR$/comDao/comDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comEntity/comEntity.iml" filepath="$PROJECT_DIR$/comEntity/comEntity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comMemcache.iml" filepath="$PROJECT_DIR$/comMemcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comService/comService.iml" filepath="$PROJECT_DIR$/comService/comService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comWeb/comWeb.iml" filepath="$PROJECT_DIR$/comWeb/comWeb.iml" />
+    </modules>
+  </component>
+</project>
